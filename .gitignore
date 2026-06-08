@@ -1,9 +1,17 @@
-.env
+# Python
 __pycache__/
 *.pyc
+.env
 venv/
+env/
+.venv/
 *.pkl
-ml/metrics.json
+ 
+# Node
 node_modules/
 dist/
+.env.local
+ 
+# OS
 .DS_Store
+Thumbs.db
